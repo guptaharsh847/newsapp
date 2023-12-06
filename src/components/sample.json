@@ -1,0 +1,72 @@
+
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "sam.dunsiger@gmail.com (Samuel Dunsiger)",
+    "title": "Google TV gives users holiday love with its own version of an advent calendar",
+    "description": "Google TV is getting festive with its own advent calendar with holiday content suggestions for users.",
+    "url": "https://www.androidcentral.com/streaming-tv/google-tv-holiday-advent-calendar",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/6BBr2oVXbv5SKLgcHuCb8M-1200-80.jpg",
+    "publishedAt": "2023-12-05T02:11:16Z",
+    "content": "<ul><li>Google is now offering an advent calendar on Google TV devices with holiday-themed content suggestions.</li><li>Until Christmas Day, Google TV users will have access to festive goodies aggreg… [+2099 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "bradypsnyder@gmail.com (Brady Snyder)",
+    "title": "Google starts rolling out Photomoji for Google Messages in beta",
+    "description": "Photomoji, a new Google Messages feature that can turn any image into an emoji, is now rolling out to select beta testers.",
+    "url": "https://www.androidcentral.com/apps-software/google-messages-photomoji-starts-rolling-out",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/JEpFaBWQFBS3VVuSagHszW-1200-80.jpg",
+    "publishedAt": "2023-12-05T05:18:40Z",
+    "content": "<ul><li>Google announced a handful of new features to Google Messages last week to celebrate one billion RCS users, with Photomoji being one of them.</li><li>Photomoji lets users create a custom emoj… [+2347 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Kai Xiang Teo",
+    "title": "A 1976 check signed by Steve Jobs to Radio Shack is set to fetch more than $20,000 at an auction",
+    "description": "Items signed by Steve Jobs are rare, because he famously did not give autographs. A letter from Jobs saying so sold for nearly $500,000 in 2021.",
+    "url": "https://www.businessinsider.com/apple-steve-jobs-check-signed-radio-shack-auction-2023-12",
+    "urlToImage": "https://i.insider.com/656e946558e7c0c29a298bc4?width=1200&format=jpeg",
+    "publishedAt": "2023-12-05T03:45:41Z",
+    "content": "Apple cofounder Steve Jobs.Justin Sullivan/Getty Images\r\n<ul><li>A 1976 check to Radio Shack signed by Steve Jobs is expected to sell for more than $20,000.</li><li>Jobs famously did not give autogra… [+1550 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "ExpressVPN brings privacy and access to Apple TV devices",
+    "description": "ExpressVPN, one of the most popular virtual private network (VPN) services, has released an official app for the latest Apple […]\nThe post ExpressVPN brings privacy and access to Apple TV devices appeared first on ReadWrite.",
+    "url": "https://readwrite.com/expressvpn-brings-privacy-and-access-to-apple-tv-devices/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/ExpressVPN-brings-privacy.jpg",
+    "publishedAt": "2023-12-05T03:01:08Z",
+    "content": "ExpressVPN, one of the most popular virtual private network (VPN) services, has released an official app for the latest Apple TV operating system. The new app arrives alongside the launch of tvOS 17 … [+1998 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hackaday"
+    },
+    "author": "Navarre Bartz",
+    "title": "Mini Apple IIe Now Fully Functional",
+    "description": "Here at Hackaday, we love living in a future with miniaturized versions of our favorite retrocomputers. [James Lewis] has given us another with his fully functional Apple IIe from the Mega II chip.…",
+    "url": "https://hackaday.com/2023/12/05/mini-apple-iie-now-fully-functional/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2023/12/Mega-IIe-First-Fully-Functional-Computer-Built-Around-the-Apple-Mega-II-Chip-YouTube-0-26-39.jpeg",
+    "publishedAt": "2023-12-05T09:00:00Z",
+    "content": "Here at Hackaday, we love living in a future with miniaturized versions of our favorite retrocomputers. [James Lewis] has given us another with his fully functional Apple IIe from the Mega II chip.\r\n… [+1107 chars]"
+    }
+    ]
+    }
